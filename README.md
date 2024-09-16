@@ -1,4 +1,6 @@
 # Kali-Para-Novatos
+![imagen de portada Github](Kali-para-novatos-portada.png)
+
 ### **Esquema del Booklet: Paso a Paso para Utilizar Kali Linux**
 
 #### **Capítulo 1: Introducción a Kali Linux** (4 páginas)
